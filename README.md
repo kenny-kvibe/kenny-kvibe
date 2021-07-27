@@ -9,7 +9,7 @@
 
 [![Used Languages (On GitHub) Card](https://github-readme-stats-2ugmqm5xn-kenny-kvibe.vercel.app/api/top-langs/?username=kenny-kvibe&langs_count=10&layout=compact&card_width=445&exclude_repo=kenny-kvibe&title_color=00BDD7&text_color=F1F1F1&icon_color=00BDD7&bg_color=40,0E1217,00353D,1C3D58&hide_border=true&cache_seconds=3600&locale=en&border_radius=5&custom_title=Used+Languages+%28On+GitHub%29)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Coding Activity (Last 7 Days) Card](https://github-readme-stats-2ugmqm5xn-kenny-kvibe.vercel.app/api/wakatime?username=kennykvibe&range=last_7_days&layout=compact&line_height=26&langs_count=10&title_color=00BDD7&text_color=F1F1F1&icon_color=00BDD7&bg_color=40,0E1217,00353D,1C3D58&hide_border=true&cache_seconds=3600&border_radius=5&custom_title=Coding+Activity+%28Last+7+Days%29)](https://github.com/anuraghazra/github-readme-stats)
+[![Coding Activity (Last 7 Days) Card](https://github-readme-stats-2ugmqm5xn-kenny-kvibe.vercel.app/api/wakatime?username=kennykvibe&layout=compact&line_height=26&langs_count=10&title_color=00BDD7&text_color=F1F1F1&icon_color=00BDD7&bg_color=40,0E1217,00353D,1C3D58&hide_border=true&cache_seconds=3600&border_radius=5&custom_title=Coding+Activity+%28Last+7+Days%29&range=last_7_days)](https://github.com/anuraghazra/github-readme-stats)
 
 [<img height="24" width="24" alt="HTML" title="HTML" src="https://simpleicons.org/icons/html5.svg" />][github-repository]
 [<img height="24" width="24" alt="CSS" title="CSS" src="https://simpleicons.org/icons/css3.svg" />][github-repository]
