@@ -1,6 +1,6 @@
 &nbsp;&nbsp;[![Globe](https://github.githubassets.com/images/icons/emoji/unicode/1f30d.png)][website]
 
-[![Account](https://img.shields.io/badge/Account-%7EKVibe.-04A8C3.svg?style=flat&logo=superuser&cacheSeconds=3600)](https://github.com/badges/shields)
+[![Account](https://img.shields.io/badge/Account-%7EKVibe.-04A8C3.svg?style=flat&logo=github&cacheSeconds=3600)](https://github.com/badges/shields)
 [![Views](https://komarev.com/ghpvc/?username=kenny-kvibe&color=04A8C3&style=flat&label=Views)](https://github.com/antonkomarev/github-profile-views-counter)
 
 ---
