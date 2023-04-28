@@ -1,4 +1,5 @@
-&nbsp;&nbsp;[![Globe](https://github.githubassets.com/images/icons/emoji/unicode/1f30d.png)][website]
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:sunny:<br />
+&nbsp;&nbsp;:milky_way:&nbsp;[![Globe](https://github.githubassets.com/images/icons/emoji/unicode/1f30d.png)][website]
 
 [![Account](https://img.shields.io/badge/Account-kenny--kvibe-04A8C3.svg?style=flat&logo=github&cacheSeconds=3600)](https://github.com/badges/shields)
 [![Views](https://komarev.com/ghpvc/?username=kenny-kvibe&color=04A8C3&style=flat&label=Views)](https://github.com/antonkomarev/github-profile-views-counter)
@@ -29,8 +30,6 @@
 [<img height="24" width="24" alt="PowerShell" title="PowerShell" src="https://simpleicons.org/icons/powershell.svg" />](https://en.wikipedia.org/wiki/PowerShell)
 [<img height="24" width="24" alt="MarkDown" title="MarkDown" src="https://simpleicons.org/icons/markdown.svg" />](https://en.wikipedia.org/wiki/Markdown)
 
-
-<!-- [website]: https://kvibe.pro -->
 [website]: https://github.com
 [wakatime-profile]: https://wakatime.com/@kennykvibe
 [github-repository]: https://github.com/kenny-kvibe/kenny-kvibe
