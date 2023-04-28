@@ -1,17 +1,15 @@
 &nbsp;&nbsp;[![Globe](https://github.githubassets.com/images/icons/emoji/unicode/1f30d.png)][website]
 
-[![Account](https://img.shields.io/badge/Account-%7EKVibe.-04A8C3.svg?style=flat&logo=github&cacheSeconds=3600)](https://github.com/badges/shields)
+[![Account](https://img.shields.io/badge/Account-kenny--kvibe-04A8C3.svg?style=flat&logo=github&cacheSeconds=3600)](https://github.com/badges/shields)
 [![Views](https://komarev.com/ghpvc/?username=kenny-kvibe&color=04A8C3&style=flat&label=Views)](https://github.com/antonkomarev/github-profile-views-counter)
 
 ---
 
+[![Top Languages (On GitHub) Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kenny-kvibe&langs_count=14&layout=compact&card_width=445&exclude_repo=kenny-kvibe&title_color=00BDD7&text_color=F1F1F1&icon_color=00BDD7&bg_color=40,0E1217,00353D,1C3D58&hide_border=true&cache_seconds=3600&locale=en&border_radius=5&custom_title=Top+Languages+%28On+GitHub%29)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Statistics Card](https://github-readme-stats.vercel.app/api?username=kenny-kvibe&show_icons=true&include_all_commits=true&disable_animations=false&line_height=26&title_color=00BDD7&text_color=F1F1F1&icon_color=00BDD7&bg_color=40,0E1217,00353D,1C3D58&hide_border=true&cache_seconds=3600&locale=en&border_radius=5&custom_title=GitHub+Statistics)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Used Languages (On GitHub) Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kenny-kvibe&langs_count=14&layout=compact&card_width=445&exclude_repo=kenny-kvibe&title_color=00BDD7&text_color=F1F1F1&icon_color=00BDD7&bg_color=40,0E1217,00353D,1C3D58&hide_border=true&cache_seconds=3600&locale=en&border_radius=5&custom_title=Used+Languages+%28On+GitHub%29)](https://github.com/anuraghazra/github-readme-stats)
-
-<!--
-[![Coding Activity (Since 8. Jun. 2021) Card](https://github-readme-stats.vercel.app/api/wakatime?username=kennykvibe&layout=compact&line_height=26&langs_count=28&title_color=00BDD7&text_color=F1F1F1&icon_color=00BDD7&bg_color=40,0E1217,00353D,1C3D58&hide_border=true&cache_seconds=3600&border_radius=5&custom_title=Coding+Activity+%28Since+8.+June+2021%29)][wakatime-profile]
--->
+[![Coding Activity Card](https://github-readme-stats.vercel.app/api/wakatime?username=kennykvibe&layout=compact&line_height=26&langs_count=28&title_color=00BDD7&text_color=F1F1F1&icon_color=00BDD7&bg_color=40,0E1217,00353D,1C3D58&hide_border=true&cache_seconds=3600&border_radius=5&custom_title=Coding+Activity)][wakatime-profile]
 
 [<img height="24" width="24" alt="HTML5" title="HTML5" src="https://simpleicons.org/icons/html5.svg" />](https://en.wikipedia.org/wiki/HTML5)
 [<img height="24" width="24" alt="CSS" title="CSS" src="https://simpleicons.org/icons/css3.svg" />](https://en.wikipedia.org/wiki/CSS)
