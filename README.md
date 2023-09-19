@@ -23,7 +23,6 @@
 [<img height="24" width="24" alt="SQLite" title="SQLite" src="https://simpleicons.org/icons/sqlite.svg" />](https://en.wikipedia.org/wiki/SQLite)
 [<img height="24" width="24" alt="JavaScript" title="JavaScript" src="https://simpleicons.org/icons/javascript.svg" />](https://en.wikipedia.org/wiki/JavaScript)
 [<img height="24" width="24" alt="TypeScript" title="TypeScript" src="https://simpleicons.org/icons/typescript.svg" />](https://en.wikipedia.org/wiki/TypeScript)
-[<img height="24" width="24" alt="Vue.js" title="Vue" src="https://simpleicons.org/icons/vuedotjs.svg" />](https://en.wikipedia.org/wiki/Vue.js)
 [<img height="24" width="24" alt="Node.js" title="NodeJS" src="https://simpleicons.org/icons/nodedotjs.svg" />](https://en.wikipedia.org/wiki/Node.js)
 [<img height="24" width="24" alt="Python" title="Python" src="https://simpleicons.org/icons/python.svg" />](https://en.wikipedia.org/wiki/Python_(programming_language))
 [<img height="24" width="24" alt="Lua" title="Lua" src="https://simpleicons.org/icons/lua.svg" />](https://en.wikipedia.org/wiki/Lua_(programming_language))
