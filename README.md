@@ -2,11 +2,7 @@
 &nbsp;&nbsp;🌠&nbsp;[![Globe](https://github.githubassets.com/images/icons/emoji/unicode/1f30d.png)][website]<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌘
 
-Energy of Light.<br/>
-Heart of Fire.<br/>
-Mind of Electricity.<br/>
-<i>Experience through the Sun</i>&nbsp;~<br/>
-<b>SPREAD THE LIGHT</b>
+<i>Experience through the Sun</i>&nbsp;~
 
 [![Account](https://img.shields.io/badge/account-kenny--kvibe-04A8C3.svg?style=flat&logo=github&cacheSeconds=86400)](https://github.com/badges/shields)
 &nbsp;[![wakatime](https://wakatime.com/badge/user/f517534f-1f47-4dbc-aee9-321646e69b44.svg)][wakatime-profile]
