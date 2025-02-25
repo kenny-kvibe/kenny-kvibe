@@ -2,8 +2,6 @@
 &nbsp;&nbsp;🌠&nbsp;[![Globe](https://github.githubassets.com/images/icons/emoji/unicode/1f30d.png)][website]<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌘
 
-Observing&nbsp;the&nbsp;Universe&nbsp;observing&nbsp;itself&nbsp;~&nbsp;⨀°
-
 [![Account](https://img.shields.io/badge/account-kenny--kvibe-04A8C3.svg?style=flat&logo=github&cacheSeconds=86400)](https://github.com/badges/shields)
 &nbsp;[![wakatime](https://wakatime.com/badge/user/f517534f-1f47-4dbc-aee9-321646e69b44.svg)][wakatime-profile]
 &nbsp;[![Views](https://komarev.com/ghpvc/?username=kenny-kvibe&color=3818C3&style=flat&label=views)](https://github.com/antonkomarev/github-profile-views-counter)
