@@ -9,7 +9,7 @@
 
 ---
 
-[![Coding Activity Card](https://github-readme-stats.vercel.app/api/wakatime?username=kennykvibe&layout=compact&line_height=26&langs_count=28&title_color=00BDD7&text_color=F1F1F1&icon_color=00BDD7&bg_color=40,0E1217,00353D,1C3D58&hide_border=true&cache_seconds=3600&border_radius=5&custom_title=Coding+Activity+%28WakaTime%29)][wakatime-profile]
+<!--[![Coding Activity Card](https://github-readme-stats.vercel.app/api/wakatime?username=kennykvibe&layout=compact&line_height=26&langs_count=28&title_color=00BDD7&text_color=F1F1F1&icon_color=00BDD7&bg_color=40,0E1217,00353D,1C3D58&hide_border=true&cache_seconds=3600&border_radius=5&custom_title=Coding+Activity+%28WakaTime%29)][wakatime-profile]-->
 
 <!--
 [![GitHub Statistics Card](https://github-readme-stats.vercel.app/api?username=kenny-kvibe&include_all_commits=true&disable_animations=false&line_height=26&title_color=00BDD7&text_color=F1F1F1&icon_color=00BDD7&bg_color=40,0E1217,00353D,1C3D58&show_icons=true&hide=stars&hide_border=true&cache_seconds=3600&locale=en&border_radius=5&custom_title=GitHub+Statistics)][readme-stats-repo]
