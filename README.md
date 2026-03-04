@@ -1,4 +1,6 @@
 ![banner](https://github.com/kenny-kvibe/kenny-kvibe/blob/main/banner.jpg)
+<br/>
+---
 
 [![Account](https://img.shields.io/badge/account-kenny--kvibe-04A8C3.svg?style=flat&logo=github&cacheSeconds=86400)](https://github.com/badges/shields)
 &nbsp;[![wakatime](https://wakatime.com/badge/user/f517534f-1f47-4dbc-aee9-321646e69b44.svg)][wakatime-profile]
