@@ -1,4 +1,4 @@
-![banner](https://github.com/kenny-kvibe/kenny-kvibe/blob/main/banner.jpg)
+[![banner](https://raw.githubusercontent.com/kenny-kvibe/kenny-kvibe/refs/heads/main/banner.jpg)][website]
 <br/>
 ---
 
@@ -22,5 +22,5 @@
 -->
 
 [wakatime-profile]: https://wakatime.com/@kennykvibe
-<!-- [website]: https://kvibe.pro -->
+[website]: https://kvibe.pro
 <!-- [readme-stats-repo]: https://github.com/anuraghazra/github-readme-stats -->
